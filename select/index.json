@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "花のあとさき",
+  "base_artist": "mao",
+  "createdAt": "2026-02-20T03:52:09.796920Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花のあとさき",
+      "artist": "Mao",
+      "has_synced": false,
+      "path": "select/01_花のあとさき_Mao.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花のあとさき",
+      "artist": "M・A・O",
+      "has_synced": true,
+      "path": "select/02_花のあとさき_M・A・O.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花のあとさき",
+      "artist": "mao",
+      "has_synced": true,
+      "path": "select/03_花のあとさき_mao.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花のあとさき",
+      "artist": "mao",
+      "has_synced": false,
+      "path": "select/pl_01_花のあとさき_mao.txt"
+    }
+  ]
+}
